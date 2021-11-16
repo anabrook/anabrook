@@ -7,8 +7,8 @@
 - ⚡ Fun fact: ...
 
 
-<div align="center" style="display: inline_block"><br>
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center"><br>
+  <a href="https://github.com/anaclaudiacerqueira">
+  <img height="280em" src="https://github-readme-stats.vercel.app/api?username=anaclaudiacerqueira&show_icons=true&theme=darkonepro&include_all_commits=true&count_private=true"/>
+  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaclaudiacerqueira&layout=compact&langs_count=7&theme=darkonepro"/>
 </div>
