@@ -1,6 +1,6 @@
 ### Hello World! Eu sou a Ana Cláudia Cerqueira, criadora de conteúdo de programação! 👋
 
-- 🔭 Estou trabalhando atualmente com Front-end
+- 🔭 Estou trabalhando atualmente com Front end
 - 🌱 Estudando React.js
 - 📫  Contate-me no email: anaribeirodeveloper@gmail.com
 
