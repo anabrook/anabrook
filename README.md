@@ -1,4 +1,4 @@
-### Hello World! Eu sou a Ana Cláudia Cerqueira, criadora de conteúdo de programação! 👋
+### Hello World! Eu sou a Ana Cláudia Cerqueira Ribeiro, criadora de conteúdo de programação! 👋
 
 - 🔭 Estou trabalhando atualmente com Front end
 - 🌱 Estudando React.js
