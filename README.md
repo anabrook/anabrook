@@ -4,7 +4,7 @@
 
 
 - 👩‍💻 Estou trabalhando atualmente como Desenvolvedora Front-end.
-- 👩‍🎓 Estou me formando como cientista da computação.
+- 👩‍🎓 Sou formada como cientista da computação.
 - 🌱 Tenho estudado sobre experiência de usúario, acessibilidade e aperfeiçoando meus conhecimentos em front end.
 - 📫 Contate-me no email: anaribeirodeveloper@gmail.com
 - 💼 https://www.linkedin.com/in/anaclaudiacribeiro/
