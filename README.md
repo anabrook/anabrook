@@ -28,7 +28,6 @@
 ---
 
 
-<img src="https://badges.pufler.dev/visits/Mitsu325/Mitsu325"alt="Visitorsbadge"/>
 
 
 
