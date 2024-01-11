@@ -5,7 +5,7 @@
 
 - 👩‍💻 Estou trabalhando atualmente como Desenvolvedora Front-end.
 - 👩‍🎓 Sou formada como cientista da computação.
-- 🎓 MBA em Design Thinking & Gestão de Pessoas.
+- 🎓 MBA em Design Thinking & Gestão de Pessoas e Engenharia de Software
 - 🌱 Tenho estudado sobre experiência de usúario, acessibilidade e aperfeiçoando meus conhecimentos em front end.
 - 📫 Contate-me no email: anaribeirodeveloper@gmail.com
 - 💼 https://www.linkedin.com/in/anaclaudiacribeiro/
