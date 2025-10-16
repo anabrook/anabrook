@@ -1,3 +1,10 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=c94d00&textBg=false&reversal=true" alt="Header"/>
+<img width="1584" height="396" alt="linkedin (5)" src="https://github.com/user-attachments/assets/1067f98a-5dd0-4dc9-8322-96d4fc66668f" />
+
+
+
+
+
 ### Hello World! 👋
 
 #### Eu sou a Ana, desenvolvedora Front-End. Há 5 anos que venho trabalhando nessa área e cada vez mais me apaixono pelo que eu faço. Vivo buscando novos desafios e por isso adquiri conhecimentos em HTML&CSS, JavaScript, Typescript, React e até mesmo Java. Trabalho muito com a criatividade e com a experiência do usuário e observo todos os mínimos detalhes.
@@ -29,6 +36,6 @@
 
 
 
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=c94d00&textBg=false&reversal=true&section=footer" alt="Footer"/>
 
 
