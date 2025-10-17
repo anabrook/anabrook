@@ -9,13 +9,10 @@
 </div>
 
 
-### Hello World! 👋
+### Hello World! 👋 &nbsp; <img align="right" src="https://i.gifer.com/5Tz.gif" width="150" height="150" />
 
 
-
-<img align="right" src="https://i.gifer.com/5Tz.gif" width="150" height="150" />
-
-#### Eu sou a Ana, desenvolvedora Front-End. Há 5 anos que venho trabalhando nessa área e cada vez mais me apaixono pelo que eu faço. Vivo buscando novos desafios e por isso adquiri conhecimentos em HTML&CSS, JavaScript, Typescript, React e até mesmo Java. Trabalho muito com a criatividade e com a experiência do usuário e observo todos os mínimos detalhes.
+#### Eu sou a Ana, desenvolvedora Front-End. Há 5 anos que venho trabalhando nessa área e cada vez mais me apaixono pelo que eu faço. Vivo buscando novos desafios e por isso adquiri conhecimentos em HTML&CSS, JavaScript, Typescript, React e até mesmo Java. Trabalho muito com a criatividade e com a experiência do usuário e observo todos os mínimos detalhes. &nbsp;
 
 <br/>
 
